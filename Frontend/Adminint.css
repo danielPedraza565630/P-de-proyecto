@@ -1,0 +1,129 @@
+body{
+    background-color:rgb(47, 149, 172);
+    zoom: 80%;/*Quitar si se ejecuta en opera*/
+}
+.cuadro{
+    width: 1450px;
+    height: 914px;
+    background-color: rgb(231, 231, 231);
+    margin-top: 125px;
+    margin-left: 435px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px;
+}
+.imagen2{
+    position: absolute;
+    width: 1450px;
+    height: 914px;
+    border-radius: 50px;
+}
+.cuadro1{
+    position: absolute;
+    width: 400px;
+    height: 915px;
+    background-color: rgb(173, 223, 134,0.8);
+    margin-left: 62.5px;
+    box-shadow: 0 0 50px rgb(173, 223, 134);
+}
+.cuadro2{
+    position: absolute;
+    width: 400px;
+    height: 915px;
+    background-color: rgba(223, 134, 135,0.8);
+    margin-left: 525px;
+    box-shadow: 0 0 50px rgba(223, 134, 135);
+}
+.cuadro3{
+    position: absolute;
+    width: 400px;
+    height: 915px;
+    background-color: rgba(120, 194, 181,0.8);
+    margin-left: 987.5px;
+    box-shadow: 0 0 50px rgb(120, 194, 181);
+}
+.Agusr{
+    position: absolute;
+    width: 364px;
+    height: 364px;
+    margin-top: 275.5px;
+    margin-left:18px;
+    filter: invert(90%);
+    opacity: 0.65;
+}
+.Elimusr{
+    position: absolute;
+    width: 364px;
+    height: 364px;
+    margin-top: 275.5px;
+    margin-left: 18px;
+    filter: invert(90%);
+    opacity: 0.65;
+}
+.BdD{
+    position: absolute;
+    width: 364px;
+    height: 364px;
+    margin-top: 275.5px;
+    margin-left: 18px;
+    filter: invert(90%);
+    opacity: 0.65;
+}
+.Lestadisticas{
+    position: absolute;
+    width: 75px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 160px;
+}
+.CerrarS{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    margin-top: 17.5px;
+    margin-left: 17.5px;
+}
+.Registro{
+    width: 222px;
+    height: 85px;
+    background-color: rgba(40, 82, 117, 0.85);
+    margin-top: 15px;
+    margin-left: 80.5px;
+    border-radius: 35px;
+    font-size: 25px;
+    color: white;
+}
+.Cancelar{
+    position: absolute;
+    width: 222px;
+    height: 85px;
+    background-color: rgba(40, 82, 117, 0.85);
+    margin-top: -85px;
+    margin-left: 322.5px;
+    border-radius: 35px;
+    font-size: 25px;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 50px;
+    color: white;
+}
+.CcerrarS{
+    position: absolute;
+    background-color: rgb(47, 149, 172);
+    width: 110px;
+    height: 110px;
+    margin-top: 50px;
+    margin-left: 1885px;
+    border-radius: 30px;
+    box-shadow: -0 -0 25px black inset;
+}
+.LcerrarS{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    margin-top: 22.5px;
+    margin-left: 22.5px;
+    filter: invert(95%);
+}

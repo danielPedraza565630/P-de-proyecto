@@ -1,0 +1,109 @@
+body{
+    background-color:rgb(238, 143, 144);
+    zoom: 80%;/*Quitar si se ejecuta en opera*/
+}
+.cuadro{
+    width: 1450px;
+    height: 914px;
+    background-color: rgb(231, 231, 231);
+    margin-top: 125px;
+    margin-left: 435px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px;
+}
+.imagen1{
+    position: absolute;
+    width: 914px;
+    height: 914px;
+    border-radius: 50px;
+}
+.cuadroReg{
+    position: absolute;
+    width: 400px;
+    height: 800px;
+    background-color: rgb(238, 143, 144);
+    margin-top: 57px;
+    margin-left: 982px;
+    border-radius: 35px;
+    box-shadow: 0 0 50px;
+}
+.Nombres{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.Apellidos{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.Celular{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.ID{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.email{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.contraseña{
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 40px;
+    font-size: 25px;
+}
+.Registro{
+    width: 300px;
+    height: 60px;
+    background-color: rgba(40, 82, 117, 0.85);
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 35px;
+    font-size: 25px;
+    color: white;
+}
+.Cancelar{
+    width: 300px;
+    height: 60px;
+    background-color: rgba(40, 82, 117, 0.85);
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 35px;
+    font-size: 25px;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 50px;
+    color: white;
+}
