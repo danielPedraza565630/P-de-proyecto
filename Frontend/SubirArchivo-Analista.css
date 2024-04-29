@@ -1,0 +1,142 @@
+body{
+    background-color:rgba(173, 223, 134);
+    ;
+    zoom: 80%;/*Quitar si se ejecuta en opera*/
+}
+.cuadro{
+    width: 1450px;
+    height: 914px;
+    background-color: rgb(231, 231, 231);
+    margin-top: 125px;
+    margin-left: 435px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px;
+}
+.imagen1{
+    position: absolute;
+    width: 1450px;
+    height: 914px;
+    border-radius: 50px;
+}
+.cuadro3{
+    position: absolute;
+    width: 1345px;
+    height: 659px;
+    background-color: rgba(173, 223, 134);
+    margin-top: 215px;
+    margin-left: 52.5px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px;
+    opacity: 0.95;
+}
+.cuadro4{
+    position: absolute;
+    width: 1266px;
+    height: 588px;
+    background-color:  rgb(231, 231, 231);
+    margin-top: 35.5px;
+    margin-left: 39.5px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px;
+}
+.Fbarra{
+    position: absolute;
+    width: 666px;
+    height: 167px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 392px;
+    border-radius: 30px;
+    box-shadow: 0 0 50px;
+    opacity: 0.9;
+}
+.barra{
+    position: absolute;
+    width: 618px;
+    height: 123px;
+    background-color: rgba(173, 223, 134);
+    margin-top: 22px;
+    margin-left: 24px;
+    border-radius: 30px;
+    box-shadow: 0 0 50px;
+}
+.Lauditoria{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 32.16px;
+}
+.Lsubir{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 149.326px;
+}
+.Ldescargar{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 266.486px;
+}
+.Lestadisticas{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 383.647px;
+}
+.Lbasura{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    margin-top: 19px;
+    margin-left: 500.806px;
+}
+.cerrarS{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.CcerrarS{
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 1300px;
+    border-radius: 30px;
+    box-shadow: -0 -0 25px black inset;
+}
+.Lseleccion{
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    margin-top: 4px;
+    margin-left: 133.24px;
+    filter: invert(90%);
+}
+.BseleccionarArch{
+    width: 448px;
+    height: 127px;
+    background-color:rgba(120, 194, 181);
+    margin-top: 80px;
+    margin-left: 409px;
+    border-radius: 50px;
+    font-size: 40px;
+    color: white;
+}
+.Bsubir{
+    width: 448px;
+    height: 127px;
+    background-color:rgba(173, 223, 134);
+    margin-top: 80px;
+    margin-left: 409px;
+    border-radius: 50px;
+    font-size: 40px;
+    color: white;
+}
